@@ -1,6 +1,4 @@
-# Smart Microwave Oven Controller - BASYS-3 FPGA
-
-BASYS-3 보드를 이용한 지능형 전자레인지 제어 시스템 구현 프로젝트
+# BASYS-3 보드를 이용한 지능형 전자레인지 제어 시스템 구현 프로젝트
 
 ## 프로젝트 개요
 
